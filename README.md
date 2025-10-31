@@ -49,8 +49,8 @@
 ## Installation  
 
 ```bash
-git clone https://github.com/<your-user>/Denso-AMS-MultiCam-Offense-Detection.git
-cd Denso-AMS-MultiCam-Offense-Detection
+git clone https://github.com/rkarahul/AI-Powered-Multi-Camera-Safety-Compliance-Engine-with-Foreman-Aware-Violation-Detection.git
+cd AI-Powered Multi-Camera Safety Compliance Engine with Foreman-Aware Violation Detection
 
 # 1. Create venv
 python -m venv venv
